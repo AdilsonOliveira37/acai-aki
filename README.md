@@ -17,15 +17,14 @@ relevante em um mercado de trabalho competitivo.
 - [@adilsonoliveira37](https://www.github.com/adilsonoliveira37)
 - [@ajallon68](https://www.github.com/ajallon68)
 - [@WillGarciaM](https://github.com/WillGarciaM)
-
+- [@leoronchini](https://github.com/leoronchini)
 
 ## Videos
 
  - [Video - Adilson Oliveira](https://www.youtube.com/watch?v=WJ4eo2q2sHU)
  - [Video - Odilon Junior](https://www.youtube.com/watch?v=A4HQfE5EZqA)
  - [Video - William G. Marcondes](https://www.youtube.com/watch?v=_KXYaRmW5sU)
-
-
+ - [Video - Leonardo Ronchini](https://youtu.be/ojV3OdzAP-8)
 
 ## Como rodar a aplicação
 
